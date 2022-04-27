@@ -20,6 +20,7 @@ There are 2 methods to link device to the Telegram account:
 1. Launch web browser on the forensic machine
 2. Go the URL 'https://web.telegram.org' and a QR Code will be displayed
 3. Launch Telegram application on the target mobile device
+
 ### On Android device
 4. On Android Device, click on 'menu'
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_001.png">
@@ -27,6 +28,7 @@ There are 2 methods to link device to the Telegram account:
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_002.png">
 6. Click on ‘Link Desktop Device’ 
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_003.png">
+
 ### On iOS device
 4. On iOS Device, click on 'Settings'
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_004.jpg">
