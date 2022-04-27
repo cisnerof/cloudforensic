@@ -30,7 +30,7 @@ There are 2 methods to link device to the Telegram account:
 1. Start Telegram Desktop for forensic machine
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop001.png">
 2. Click on  'Or log in with your phone number'
-
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop002.png">
 4. Select the Country of the Phone Number, enter Phone Number and click ’Next’ to continue
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop003.png">
 4. Launch Telegram application on the target movile device
