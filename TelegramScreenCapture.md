@@ -51,3 +51,10 @@ There are 2 methods to link device to the Telegram account:
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_009.png">
 8. Enter the code in the web browser.
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_011.png">
+
+## Beware
+* Telegram will send confirmation to the Telegram account. Make sure access are authorized
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_010.png">
+* Proceed with screencapture
+* To log out after use.
+
