@@ -35,9 +35,41 @@ There are 2 methods to link device to the Telegram account:
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop003.png">
 4. Launch Telegram application on the target movile device
 
+## Get User Profile
+1. In Telegram Desktop, click on the Menu icon
+<img width="500" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop004.png">
+
+2. Click on 'Settings'
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop005.png">
+
+3. Click on 'Edit Profile'
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop006.png">
+
+4. Capture the User Profile information
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop007.png">
+
+5. Can proceed other settings if necessary
 
 ## Export 
 
+1. Select the Chat Conversation, Channel or Group
+2. Click on the 3 dot icon at the top-right corner of Telegram desktop
+3. Select 'Export chat history'
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop008.png">
+
+4. Check on the Attachment type to export (Check all if unsure)
+5. Extend the Export size limit to maximum
+6. Select preferable export type
+7. Select Export path
+8. click on Export
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop009.png">
+
+9. Take note that new device link to the account can only start exporting after 24 hours
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop010.png">
+
+10. Remember to log out once the task is completed
+
 ## Beware
 * Telegram will send confirmation to the Telegram account. Make sure access are authorized
-<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramSaveAs_010.png">
+* Export can only begin after 24 hours of newly setup account
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/TelegramDesktop011.png">
