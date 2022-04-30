@@ -11,32 +11,67 @@
 * In essence, application data are no longer required to be stored on the physical devices, and they are not restricted by physical locations.
 
 ### Characteristics of Cloud Computing
-* It is an on-demand service where the user can instantly provision computing resources, such as server processing powers and network storage, almost instaneously
-* Cloud computing's capabilities are delivered over the network and can be accessed by many user-end platform such as mobile phone, computer and thin client machines.
-* The computing resources are pooled together to serve multiple users, and they are dynamically assigned and reassigned according to the user’s demands or requests.
-* Capabilities can be elastically provisioned and released, in some cases, automatically, to rapidly scale outward and inward to cope with the demand
-* Resource usage can be monitored, controlled, and reported for both the Provider and users.
-
-### Cloud Services Classification
-* Cloud Services are classified into 3 broad categories:
-  * Software as a Service (SaaS)
-  * Platform as a Service (PaaS)
-  * Infrastructure as a Service (IaaS)
-* In an on-premise scenario, everything from servers, storage, applications are managed within the organisations. 
-* The organisation have full control and responsible for all the hardware and software of the systems
-* As the oganisation move from IaaS, to PaaS, the organisation are administrating lesser of these resources. 
-* Finally when we moved to Software As a Service, the underlying hardware and software resources are transparent to the users.
-
-### Cloud Deployments
-* Cloud services can generally deployed in the following ways:
-  * Full Cloud Setup: All operations are carried out on cloud service providers or multiple cloud service providers.
-  * Hybrid: The most common method. Usually deloyed in scenario where there is existing on-premises infrastructure. An organization's infrastructure then extend it’s deployment and grow into the cloud.
-  * On-premises: The deployment of resources are usually housed at the users’ location, using virtualization and resource management tools. Commonly known as private cloud. On-premises deployment doesn’t provide many of the benefits of cloud computing but is sometimes sought for its ability to provide dedicated resources or security.
+* On-demand self service: 
+  * Allows the provisions for cloud resources such as computing powers, storage and network, without the need or human interactions
+* Rapid elasticity 
+  * Offers rapid provision capabilities and scalability of services as per the business requirements. Subscribers can deploy and redeploy unlimited number of resources.
+* Distributed storage
+  * Offers better scalability, availability and reliability of data
+* Automated management:
+  * minimising user involvement, accelerating the process, reduce labour costs and also possibility of human error.
+* Broad network access: 
+  * Cloud resources are available over the network and accessed through a wide variety of platforms, including laptops, mobile phones and etc.
+* Resource pooling: 
+  * Resources pool all resources together to serve multiple customers in a multi-tenant environments.
+* Measured service:
+  * Employ a ‘pay-per-use’ metering method, usually on a subscription basis.
+  * The resources are monitor, control, report and charge the consumption of resources with complete transparency
+* Virtualisation technology:
+  * Virtualisation technology in the cloud enables the rapid scaling of resources in a way that could not be achieved by non-virtualised environments.
 
 ### Advantages of Cloud Computing
 * Services can be delivered globally and swiftly
 * Computing powers are no longer restricted by system hardware.
 * It reduces the investment in IT infrastructures at the early stage of a product or service.
+
+### Limitation of Cloud Computing
+* Limited control and flexibility
+* Prone to outages and technical issues
+* Security, privacy and compliance issues
+* Contracts and lock-ins
+* Depends on network connections
+
+## Cloud Services Classification
+* In an on-premise scenario, everything from servers, storage, applications are managed within the organisations. 
+* The organisation have full control and responsible for all the hardware and software of the systems
+* As the oganisation move from IaaS, to PaaS, the organisation are administrating lesser of these resources. 
+* Finally when we moved to Software As a Service, the underlying hardware and software resources are transparent to the users.
+* Infrastructure-as-a-Service
+    * Subscribers utilise fundamental IT resources such as computing power, storage and network demand.
+    * Cloud service providers are responsible for managing the underlying cloud computing infrastructures
+    * Amazon Elastic Computing Cloud (EC2), and Azure Virtual Machines
+* Platform-as-a-Service
+    * Subscribers do not manage the software and the fundamental IT resouces, but they do have authority over the applications
+    * Google App Engine, AWS Elastic Beanstalk, AWS Lambda, SAP Cloud Platform
+* Software-as-a-Service
+    * Offers application software to subscibers on demand and over the Internet
+    * Google Docs, MS Office 365, Web-based email such as Gmail and Outlook
+
+## Cloud Deployment
+- Private Cloud
+    - Also known as corporate cloud.
+    - This is a cloud infrastructure that is operated by a single organisation.
+    - Usually deployed within the organisation network
+    - Full control over the corporate data
+- Community Cloud
+    - It is a multi-tenant infrastructure shared among organisations with specific objectives such as security, regulatory compliance and performance requirements
+- Public Cloud
+    - Resources and services are provision over the internet.
+    - Cloud service providers are responsibility for the creation and maintenance of the resources
+- Hybrid Cloud
+    - Comprising of public, community and private cloud
+    - bounded together for the benefits of the services,
+    - Example: an organisation perform critical activities on a private cloud, and non-critical activities on a public cloud.
 
 ### Need for Cloud Forensics
 * Growing trend towards cloud hosted apps and data
