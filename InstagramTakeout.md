@@ -22,6 +22,15 @@
 8. And we wait. The link to download will be send to the registered email address of the Instagram account.
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/InstagramTakeout007.png">
 
+9. You can proceed to download from the link send to the account's email address. Note that there is an expiry date for the link
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/InstagramTakeout008.png">
+
+10. You will be required to log in to the account again
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/InstagramTakeout009.png">
+
+11. Proceed to download
+<img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/InstagramTakeout010.png">
+
 ## Reference
 
 How to download your Instagram data and get a file with all of your photos, comments, messages, and more 
