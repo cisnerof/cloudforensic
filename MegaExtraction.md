@@ -81,7 +81,7 @@ All Access must be legal or authorized.
     - Avoid data throttle or transfer limits
     - Possibility of modification or deletion
 
-## Forenisc Tools
+## Forensic Tools
 
 ### Magnet Axiom Cloud/Cyber
 <img width="300" alt="image" src="https://github.com/cisnerof/img/blob/main/mega012.png">
