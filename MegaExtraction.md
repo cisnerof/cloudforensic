@@ -80,6 +80,7 @@ All Access must be legal or authorized.
     - Slow but steady to ensure data integrity
     - Avoid data throttle or transfer limits
     - Possibility of modification or deletion
+    - Limitation control over the data to be exported
 
 ## Forensic Tools
 
