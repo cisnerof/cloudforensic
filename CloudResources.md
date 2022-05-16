@@ -1,4 +1,19 @@
 # OSINT
+
+## Cloud Forensic Tools
+Belkasoft Evidence Center
+Cellebrite UFED Cloud Analyzer
+Elcomsoft Cloud eXplorer
+F-Response Universal with Cloud Collector
+HancomGMD MD-CLOUD
+Magnet AXIOM
+MSAB XRY Cloud
+Onna
+OpenText
+Oxygen Forensic Cloud Extractor
+Paraben E3 Forensic Platform
+
+## Others
 CyberChef
 - https://gchq.github.io/CyberChef/
 
